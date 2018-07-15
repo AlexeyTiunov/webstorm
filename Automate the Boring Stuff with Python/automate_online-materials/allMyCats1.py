@@ -1,4 +1,4 @@
-print('Enter the name of cat 1:')
+print('Enter the name of cat 1111:')
 catName1 = input()
 print('Enter the name of cat 2:')
 catName2 = input()
